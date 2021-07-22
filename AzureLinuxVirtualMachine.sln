@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "AzureLinuxVirtualMachine", "AzureLinuxVirtualMachine\AzureLinuxVirtualMachine.deployproj", "{47D73A10-F14B-4AB5-A915-3D7A31856E13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47D73A10-F14B-4AB5-A915-3D7A31856E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D73A10-F14B-4AB5-A915-3D7A31856E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D73A10-F14B-4AB5-A915-3D7A31856E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D73A10-F14B-4AB5-A915-3D7A31856E13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {229FF6E3-3219-4221-9DAD-1790B6790483}
+	EndGlobalSection
+EndGlobal
